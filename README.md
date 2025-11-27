@@ -1,12 +1,12 @@
-# 🔍 Haldiram Review Sentiment Analysis
+# Haldiram Review Sentiment Analysis
 
-This project performs text mining on customer reviews of Haldiram to identify
-positive & negative sentiment keywords using Python.
+This project performs basic text mining on customer reviews of Haldiram.
+It extracts positive and negative keywords to understand customer sentiment.
 
-### 📌 What this Project Does
-- Cleans reviews using regex
-- Identifies sentiment based on keyword matching
-- Displays most frequent positive & negative words
-- Helps understand customer satisfaction & complaints
+### Features
+- Removes punctuation, converts text to lowercase
+- Counts positive and negative words using sentiment lexicon
+- Outputs frequency tables for review insights
 
-### 🚀 Run This Project
+### Run the Script
+
