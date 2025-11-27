@@ -7,6 +7,3 @@ It extracts positive and negative keywords to understand customer sentiment.
 - Removes punctuation, converts text to lowercase
 - Counts positive and negative words using sentiment lexicon
 - Outputs frequency tables for review insights
-
-### Run the Script
-
