@@ -1,4 +1,3 @@
-readme = """
 # 🔍 Haldiram Review Sentiment Analysis
 
 This project performs text mining on customer reviews of Haldiram to identify
